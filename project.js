@@ -16,4 +16,4 @@ let handleRequest = (request, response) => {
     });
 };
  
-http.createServer(handleRequest);
+http.createServer(handleRequest).listen(process.env.PORT || 8000);
