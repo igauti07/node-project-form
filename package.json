@@ -1,0 +1,19 @@
+{
+  "name": "project-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igauti07/node-project-form.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igauti07/node-project-form/issues"
+  },
+  "homepage": "https://github.com/igauti07/node-project-form#readme"
+}
